@@ -1,5 +1,6 @@
 # CinemaHub
 Getting Movies , Tv Shows from tmbd database & implemented Shimmer effect from facebook.
+https://play.google.com/store/apps/details?id=com.ashish.moviestreamingapp
 
 <img src="app/src/main/res/drawable/1.jpg" height="600" width="300">  <img src="app/src/main/res/drawable/2.jpg" height="600" width="300">  
 <img src="app/src/main/res/drawable/3.jpg" height="600" width="300">  <img src="app/src/main/res/drawable/4.jpg" height="600" width="300">  
