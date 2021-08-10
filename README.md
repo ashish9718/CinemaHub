@@ -3,8 +3,6 @@ Getting Movies , Tv Shows from tmbd database & implemented Shimmer effect from f
 
 https://play.google.com/store/apps/details?id=com.ashish.moviestreamingapp
 
-
-Checkout this new app related to Health & Fitness :
 https://play.google.com/store/apps/details?id=com.fitness.fitnesswar
 
 
